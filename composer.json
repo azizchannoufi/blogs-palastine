@@ -1,0 +1,17 @@
+{
+    "name": "blogs/blog-post",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Twbs\\Bootstrap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azizchannoufi",
+            "email": "channoufi2003@gmail.com"
+        }
+    ]
+}
