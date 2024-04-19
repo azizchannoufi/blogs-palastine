@@ -1,0 +1,22 @@
+.body-sign {
+    background-image: url('../src/images/palestine\ flag.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: inherit;
+
+}
+
+
+.container_sign{
+    width: 50%;
+    background-color: rgba(54, 49, 49, 0.508);
+    margin-left: 25%;
+    margin-right: 35%;
+    margin-top: 10%;
+    padding: 3%;
+    border: medium dashed rgb(246, 243, 243);
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px  rgba(80, 79, 79, 0.831);
+    color: white;
+}
+
